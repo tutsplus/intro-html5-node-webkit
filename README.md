@@ -1,3 +1,1 @@
-# Introduction to HTML5 Desktop Apps With Node-Webkit Source Code
-
-The source code for the Nettuts+ article, Introduction to HTML5 Desktop Apps With Node-Webkit by Maciej Sopyło.
+The source code for the Nettuts+ article, [Introduction to HTML5 Desktop Apps With Node-Webkit](http://net.tutsplus.com/tutorials/javascript-ajax/introduction-to-html5-desktop-apps-with-node-webkit/) by Maciej Sopyło.
